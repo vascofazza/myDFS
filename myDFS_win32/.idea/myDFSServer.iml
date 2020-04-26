@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="CPP_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/myDFSClient/client.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/myDFSClient/client.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/myDFSCommons/.DS_Store" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/myDFSCommons/configuration_manager.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/myDFSCommons/configuration_manager.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/myDFSCommons/mydfs_commons.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/myDFSCommons/mydfs_commons.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/myDFSCommons/poll_helper.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/myDFSCommons/poll_helper.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/myDFSCommons/read_utilities.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/myDFSCommons/read_utilities.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/myDFSCommons/sem_utilities.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/myDFSCommons/sem_utilities.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/myDFSServer/.DS_Store" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/myDFSServer/mydfs_server.config" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/myDFSServer/server.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test/main.c" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="Header Search Paths">
+        <CLASSES>
+          <root url="file://C:/MinGW/include" />
+          <root url="file://C:/MinGW/lib/gcc/mingw32/4.8.1/include" />
+          <root url="file://C:/MinGW/lib/gcc/mingw32/4.8.1/include-fixed" />
+          <root url="file://C:/MinGW/lib/gcc/mingw32/4.8.1/include/c++" />
+          <root url="file://C:/MinGW/lib/gcc/mingw32/4.8.1/include/objc" />
+          <root url="file://C:/MinGW/lib/gcc/mingw32/4.8.1/include/ssp" />
+          <root url="file://C:/MinGW/mingw32/include" />
+          <root url="file://$MODULE_DIR$/myDFSClient" />
+          <root url="file://$MODULE_DIR$/myDFSCommons" />
+          <root url="file://$MODULE_DIR$/myDFSServer" />
+          <root url="file://$MODULE_DIR$/test" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://C:/MinGW/include" />
+          <root url="file://C:/MinGW/lib/gcc/mingw32/4.8.1/include" />
+          <root url="file://C:/MinGW/lib/gcc/mingw32/4.8.1/include-fixed" />
+          <root url="file://C:/MinGW/lib/gcc/mingw32/4.8.1/include/c++" />
+          <root url="file://C:/MinGW/lib/gcc/mingw32/4.8.1/include/objc" />
+          <root url="file://C:/MinGW/lib/gcc/mingw32/4.8.1/include/ssp" />
+          <root url="file://C:/MinGW/mingw32/include" />
+          <root url="file://$MODULE_DIR$/myDFSClient" />
+          <root url="file://$MODULE_DIR$/myDFSCommons" />
+          <root url="file://$MODULE_DIR$/myDFSServer" />
+          <root url="file://$MODULE_DIR$/test" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/myDFSClient/client.c" />
+          <root url="file://$MODULE_DIR$/myDFSClient/client.h" />
+          <root url="file://$MODULE_DIR$/myDFSCommons/sem_utilities.h" />
+          <root url="file://$MODULE_DIR$/myDFSCommons/.DS_Store" />
+          <root url="file://$MODULE_DIR$/myDFSCommons/mydfs_commons.h" />
+          <root url="file://$MODULE_DIR$/myDFSCommons/read_utilities.c" />
+          <root url="file://$MODULE_DIR$/myDFSCommons/poll_helper.c" />
+          <root url="file://$MODULE_DIR$/myDFSCommons/sem_utilities.c" />
+          <root url="file://$MODULE_DIR$/myDFSCommons/mydfs_commons.c" />
+          <root url="file://$MODULE_DIR$/myDFSCommons/configuration_manager.h" />
+          <root url="file://$MODULE_DIR$/myDFSCommons/read_utilities.h" />
+          <root url="file://$MODULE_DIR$/myDFSCommons/poll_helper.h" />
+          <root url="file://$MODULE_DIR$/myDFSCommons/configuration_manager.c" />
+          <root url="file://$MODULE_DIR$/myDFSServer/mydfs_server.config" />
+          <root url="file://$MODULE_DIR$/myDFSServer/server.c" />
+          <root url="file://$MODULE_DIR$/myDFSServer/.DS_Store" />
+          <root url="file://$MODULE_DIR$/test/main.c" />
+        </excluded>
+      </library>
+    </orderEntry>
+  </component>
+</module>
